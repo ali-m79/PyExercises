@@ -50,11 +50,11 @@
 #### [15-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/15_PyEx.ipynb) :
 *   zip()
 *   map() 
-#### 16-PyEx
+#### [16-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/16_PyEx.ipynb)
 *   filter() 
 *   List Comprehension 
 *   Dict Comprehension 
-#### 17-PyEx
+#### [17-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/17_PyEx.ipynb)
 *   Classes
 #### 18-PyEx
 *   Class Inheritence  
@@ -62,9 +62,9 @@
 *   File Input Output
 #### 20-PyEx
 *   Modular Programming
-#### 21-PyEx
+#### [21-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/21_PyEx.ipynb)
 *   The Meaning of Underscore '_' 
 #### [22-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/22_PyEx.ipynb)
 *   Pathlib
-#### 23-PyEx
+#### [23-PyEx](https://github.com/siniorone/PyExercises/blob/main/Exercise/23_PyEx.ipynb)
 *   Error Handling
